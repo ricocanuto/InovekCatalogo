@@ -1,12 +1,12 @@
 import { productImage } from "../assets/media";
 
-const premiumImage = productImage("03-espelho-led-premium", "03-espelho-led-premium.png");
-const mobileImage = productImage("02-espelho-movel", "02-espelho-movel.png");
-const decorativeImage = productImage("04-espelho-decorativo", "04-espelho-decorativo.png");
-const illuminatedImage = productImage("05-espelho-iluminado", "05-espelho-iluminado.png");
-const barberImage = productImage("06-espelho-barbearia", "06-espelho-barbearia.png");
-const professionalImage = productImage("07-espelho-profissional", "07-espelho-profissional.png");
-const fixationImage = productImage("01-sistema-fixacao", "01-sistema-fixacao.png");
+const premiumImage = productImage("03-espelho-led-premium", "03-espelho-led-premium.jpeg");
+const mobileImage = productImage("02-espelho-movel", "02-espelho-movel.jpeg");
+const decorativeImage = productImage("04-espelho-led-decorativo", "04-espelho-led-decorativo.jpeg");
+const illuminatedImage = productImage("01-espelho-iluminado", "01-espelho-iluminado.jpeg");
+const barberImage = productImage("06-espelho-barbearia", "06-espelho-barbearia.jpeg");
+const professionalImage = productImage("07-espelho-profissional", "07-espelho-profissional.jpeg");
+const fixationImage = productImage("05-sistema-fixacao", "05-sistema-fixacao.jpeg");
 
 export type Category = "Espelhos LED" | "Profissionais" | "Decorativos" | "Fixação";
 
