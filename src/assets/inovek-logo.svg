@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 152" fill="none" role="img" aria-labelledby="title">
+  <title id="title">INOVEK Vidros e Marcenaria</title>
+  <path d="M3 17h33l25 40-25 42H3l29-42L3 17Z" fill="#d7292d"/>
+  <path d="M90 17h35L97 57l29 42H90L62 57l28-40Z" fill="#d7292d"/>
+  <path d="M51 17h23v82H51z" fill="#22211f"/>
+  <text x="136" y="97" fill="#22211f" font-family="Arial, Helvetica, sans-serif" font-size="89" font-weight="800" letter-spacing="-6">inoveK</text>
+  <text x="138" y="133" fill="#22211f" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800" letter-spacing="1.2">VIDROS E MARCENARIA</text>
+  <path d="M137 143h314" stroke="#22211f" stroke-width="1.8"/>
+</svg>
